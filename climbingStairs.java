@@ -9,7 +9,7 @@ public class climbingStairs {
         int n = 8;
         int dp[] = new int[n+1];
         Arrays.fill(dp,-1);
-        System.out.println(climbingStairsBottomUpOptimised(n));
+        System.out.println(climbingStairsBottomUpOptimised(4));
 
     }
 
